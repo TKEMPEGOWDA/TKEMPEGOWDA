@@ -1,4 +1,4 @@
-# 👋 Hi, I am Thejas Kempegowda
+# 👋 Hi, I am Thejas
 
 I write code to solve problems, not just to pass tests. Over the last 5 years, I’ve worked as a full-stack engineer building systems that people actually use—from internal dashboards that simplify decision-making to backend services that stay reliable under pressure.
 
@@ -7,6 +7,10 @@ I specialize in turning complex requirements into practical software using Angul
 On the academic side, I hold a Master’s in Computer Engineering from Stony Brook University, where I also served as a Teaching Assistant for Computer Vision and Digital Image Processing—mentoring students while deepening my own foundations in applied algorithms and machine learning.
 
 Whether I’m designing architecture diagrams or fine-tuning a SQL query, I’m always thinking about how the small parts affect the big picture. I'm especially drawn to work that blends engineering with user value, and I’m always up for a challenge that makes me learn something new.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkempegowda&show_icons=true&locale=en&layout=compact" alt="tkempegowda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkempegowda&show_icons=true&locale=en" alt="tkempegowda" /></p>
 
 # ⚙️ Skills & Expertise 
 
