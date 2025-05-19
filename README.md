@@ -8,9 +8,17 @@ On the academic side, I hold a Master’s in Computer Engineering from Stony Bro
 
 Whether I’m designing architecture diagrams or fine-tuning a SQL query, I’m always thinking about how the small parts affect the big picture. I'm especially drawn to work that blends engineering with user value, and I’m always up for a challenge that makes me learn something new.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkempegowda&show_icons=true&locale=en&layout=compact" alt="tkempegowda" /></p>
+# 🤝 Let’s Connect
+I am always open to meaningful collaboration, whether it's building robust backend systems, refining cloud infrastructure, or crafting intuitive frontend experiences.
+Feel free to explore my work below, or reach out to start a conversation!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkempegowda&show_icons=true&locale=en" alt="tkempegowda" /></p>
+<div align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tkempegowda&theme=radical&hide_border=false" style="height: 200px; margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkempegowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tkempegowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px; margin: 5px;"/>
+</div>
+
+
 
 # ⚙️ Skills & Expertise 
 
