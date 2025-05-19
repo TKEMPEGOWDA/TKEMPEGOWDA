@@ -26,7 +26,6 @@ Feel free to explore my work below, or reach out to start a conversation!
 </div>
 
 
-
 # ⚙️ Skills & Expertise 
 
 - Programming Languages: Java, C#, Python, TypeScript, JavaScript, SQL, HTML5, CSS, Tailwind CSS.
