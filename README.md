@@ -1,12 +1,12 @@
 # 👋 Hi, I am Thejas
 
-I write code to solve problems, not just to pass tests. Over the last 5 years, I’ve worked as a full-stack engineer building systems that people actually use—from internal dashboards that simplify decision-making to backend services that stay reliable under pressure.
+I write code to solve problems, not just to pass tests. Over the last 5 years, I have worked as a full-stack engineer building systems that people actually use from internal dashboards that simplify decision making to backend services that stay reliable under pressure.
 
 I specialize in turning complex requirements into practical software using Angular, React, Java, .NET Core, Spring Boot, and modern cloud platforms like Azure and AWS. My experience spans building RESTful APIs, integrating cloud services, and deploying scalable systems with CI/CD pipelines. I believe in building things right the first time—but knowing how to debug when things (inevitably) go sideways.
 
-On the academic side, I hold a Master’s in Computer Engineering from Stony Brook University, where I also served as a Teaching Assistant for Computer Vision and Digital Image Processing—mentoring students while deepening my own foundations in applied algorithms and machine learning.
+On the academic side, I hold a Master’s in Computer Engineering from Stony Brook University, where I also served as a Teaching Assistant for Computer Vision and Digital Image Processing, mentoring students while deepening my own foundations in applied algorithms and machine learning.
 
-Whether I’m designing architecture diagrams or fine-tuning a SQL query, I’m always thinking about how the small parts affect the big picture. I'm especially drawn to work that blends engineering with user value, and I’m always up for a challenge that makes me learn something new.
+Whether I am designing architecture diagrams or fine-tuning a SQL query, I am always thinking about how the small parts affect the big picture. I am especially drawn to work that blends engineering with user value, and I am always up for a challenge that makes me learn something new.
 
 # 🤝 Let’s Connect
 I am always open to meaningful collaboration, whether it's building robust backend systems, refining cloud infrastructure, or crafting intuitive frontend experiences.
