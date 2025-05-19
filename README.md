@@ -17,6 +17,8 @@ Feel free to explore my work below, or reach out to start a conversation!
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logoColor=white)](https://v0-thejas-kempegowda.vercel.app/)
 
 
+# 📊 Open Source Contributions
+
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tkempegowda&theme=radical&hide_border=false" style="height: 200px; margin: 5px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkempegowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; margin: 5px;"/>
