@@ -1,6 +1,12 @@
-# 👨🏽‍💻 About Me
-Passionate about building scalable software solutions, I have nearly 5 years of experience in full-stack development, specializing in Angular, TypeScript, React, JavaScript, .NET, Spring Boot, Azure, AWS and CI/CD automation. Currently pursuing my master's in Computer Engineering at Stony Brook University, I'm expanding my expertise in AI, statistical analysis, and machine learning to bridge software engineering with intelligent applications.I have developed enterprise-grade web applications, optimized cloud solutions, and automated deployment pipelines. I thrive in fast-paced, collaborative environments, bringing a problem-solving mindset and a drive for innovation.
+# 👋 Hi, I am Thejas Kempegowda
 
+I write code to solve problems, not just to pass tests. Over the last 5 years, I’ve worked as a full-stack engineer building systems that people actually use—from internal dashboards that simplify decision-making to backend services that stay reliable under pressure.
+
+I specialize in turning complex requirements into practical software using Angular, React, Java, .NET Core, Spring Boot, and modern cloud platforms like Azure and AWS. My experience spans building RESTful APIs, integrating cloud services, and deploying scalable systems with CI/CD pipelines. I believe in building things right the first time—but knowing how to debug when things (inevitably) go sideways.
+
+On the academic side, I hold a Master’s in Computer Engineering from Stony Brook University, where I also served as a Teaching Assistant for Computer Vision and Digital Image Processing—mentoring students while deepening my own foundations in applied algorithms and machine learning.
+
+Whether I’m designing architecture diagrams or fine-tuning a SQL query, I’m always thinking about how the small parts affect the big picture. I'm especially drawn to work that blends engineering with user value, and I’m always up for a challenge that makes me learn something new.
 
 # ⚙️ Skills & Expertise 
 
@@ -11,40 +17,8 @@ Passionate about building scalable software solutions, I have nearly 5 years of 
 - Cloud Platforms: Azure (PaaS, MFA), Azure SQL, AWS (EC2, S3, Route 53, RDS).
 - Databases: Microsoft SQL Server, SSMS, MongoDB.
 
-# 💻 Professional Experience:
-## Accenture
-## Senior Software Engineer
-### Nov 2021 - Aug 2023
-- Conducted comprehensive requirement gathering sessions with stakeholders, analyzing user needs and designing tailored media queries; enhanced website responsiveness, leading to a 40% increase in user satisfaction ratings.
-- Engineered lazy loading for modules and components, achieving a 30% reduction in initial load time; employed Angular Input, Output, ViewChild, Subject, and BehaviorSubject to optimize data handling and interactivity.
-- Integrated advanced data presentation tools, ag-Grid and SlickGrid, in conjunction with RxJS and NgRx for reactive state management, boosting user interaction speed by 25% and accelerating data-driven decision-making.
-- Designed and developed RESTful APIs using ASP.NET Core, integrating Azure Functions for serverless data transformations and report generation with 10,000+ records. Leveraged Azure Blob Storage for secure storage of reports.
-- Deployed backend services on Azure App Service and Virtual Machines for scalable performance and high availability. Implemented Crypto.js for secure client-side data encryption, contributing to a 40% reduction in manual handling.
-- Created over 15+ stored procedures, 10+ functions, 5+ views, and numerous triggers and complex queries crafted to address project requirements, while optimizing query performance through indexing strategies.
-- Orchestrated the seamless migration of critical applications to Azure PaaS; streamlined infrastructure management processes that resulted in a 30% decrease in operational costs and improved system performance for 20000+ users.
 
-
-## Accenture
-## Software Engineer
-### Nov 2019 - Nov 2021
-- Led end-to-end SDLC activities including requirement analysis, system design, development, testing, deployment, and production support, ensuring timely delivery of sprint-based features an average of 2 weeks ahead of schedule.
-- Implemented a custom JavaScript library to enable calendar functionality, allowing users to seamlessly toggle between daily, weekly, and monthly views. This enhancement boosted navigation efficiency, reducing time spent locating specific data by 15 minutes per user session.
-- Integrated Angular with d3.js to develop real-time reporting applications, incorporating Tube charts, sunburst charts, Pie charts, stacked bar charts, trend charts, and grouped bar charts in the UI using live data.
-- Contributed to the configuration of CI/CD pipelines, improving deployment reliability and reducing the number of environment-specific bugs by 30%.
-
-
-## Accenture
-## Associate Software Engineer
-### Nov 2018 - Nov 2019
-- Spearheaded the development of a major feature enhancement by designing an intuitive user interface for individuals with disabilities. Took full ownership of this project, which led to recognition and an award.
-- Drafted comprehensive documents to assist colleagues and newcomers in understanding deployment processes across 5 diverse environments and setting up build pipelines, which contributed to a 20% reduction in onboarding time for new team members.
-- Delivered reusable services and user interfaces and conducted unit testing, resulting in a 20% reduction in development time.
-
-# 📕 Education
-Master of Science - Computer Engineering
-Aug 2023 - May 2025
-
-# 🏗️ Academic Projects
+# 🏗️ Featured Projects
 ## Custom Image Processing
 [Repository](https://github.com/TKEMPEGOWDA/Custom-Image-Processing)
 - Implemented custom convolution operations from scratch for grayscale images, including Gaussian and mean filters, without using external image processing libraries.
