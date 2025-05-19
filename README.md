@@ -12,6 +12,11 @@ Whether I’m designing architecture diagrams or fine-tuning a SQL query, I’m 
 I am always open to meaningful collaboration, whether it's building robust backend systems, refining cloud infrastructure, or crafting intuitive frontend experiences.
 Feel free to explore my work below, or reach out to start a conversation!
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/thejas-kempegowda-a603291aa/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logoColor=white)](mailto:thejaskempegowda@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logoColor=white)](https://v0-thejas-kempegowda.vercel.app/)
+
+
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tkempegowda&theme=radical&hide_border=false" style="height: 200px; margin: 5px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkempegowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; margin: 5px;"/>
