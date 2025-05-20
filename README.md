@@ -37,6 +37,15 @@ Feel free to explore my work below, or reach out to start a conversation!
 
 
 # 🏗️ Featured Projects
+
+## React Web-Based Transcription & Translation App
+[Repository](https://github.com/TKEMPEGOWDA/Real-Time-Transcription-Web-App)
+- Developed an React and Next.js web app for speech-to-text, text-to-speech, and translation using OpenAI Whisper.
+- Integrated Web Workers for efficient in-browser ML model execution, reducing main-thread load.
+- Utilized @xenova/transformers for real-time transcription and multi-language translation.
+- Optimized processing speed and UI responsiveness by leveraging parallel execution and async processing.
+- Styled the application with Tailwind CSS, ensuring a responsive, modern, and user-friendly interface.
+- 
 ## Custom Image Processing
 [Repository](https://github.com/TKEMPEGOWDA/Custom-Image-Processing)
 - Implemented custom convolution operations from scratch for grayscale images, including Gaussian and mean filters, without using external image processing libraries.
@@ -52,14 +61,6 @@ Feel free to explore my work below, or reach out to start a conversation!
 - Simulated realistic image formation through a pinhole camera model using time-varying translation, rotation matrices, and intrinsic camera calibration.
 - Created an augmented reality system by overlaying animated 3D objects onto static background images with occlusion handling.
 - Designed a stereo vision system producing red-blue anaglyph 3D video using dual virtual cameras to simulate depth perception for AR/VR applications.
-
-## React Web-Based Transcription & Translation App
-[Repository](https://github.com/TKEMPEGOWDA/Real-Time-Transcription-Web-App)
-- Developed an React and Next.js web app for speech-to-text, text-to-speech, and translation using OpenAI Whisper.
-- Integrated Web Workers for efficient in-browser ML model execution, reducing main-thread load.
-- Utilized @xenova/transformers for real-time transcription and multi-language translation.
-- Optimized processing speed and UI responsiveness by leveraging parallel execution and async processing.
-- Styled the application with Tailwind CSS, ensuring a responsive, modern, and user-friendly interface.
 
 ## 🥇 Achievements & Certifications
 - Microsoft Azure Fundamentals (AZ-900) — Certification No.: R013F7-DD4528.
